@@ -1,11 +1,10 @@
 # Olá, sou Elise Medeiros
 
-- Desenvolvedora Full Stack pela Recode Pro.
-- Formanda em Análise e desenvolvimento de sistemas, pela Universidade Estácio.
-- Áreas em que quero atuar são: Front-end / Full stack Javascript web e mobile.
-- Área de estudo: Html, Css, Bootstrap, ReactJs, Javascript, Kotlin, MySql, NodeJs...
-- Procurando oportunidades para atuar como Desenvolvedora Jr.
-- Buscando primeira experiência na área.
+- Desenvolvedora Full Stack - Recode Pro.
+- Formada em Análise e Desenvolvimento de Sistemas - Estácio de Sá.
+- Front-End Developer Jr / Trainee.
+- Tecnoligias: Html, Css, Bootstrap, Javascript, ReactJs.
+
 
 <!---
 Elise-16-medeiros/Elise-16-medeiros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
